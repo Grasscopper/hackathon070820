@@ -1,3 +1,53 @@
+#currency-grid {
+  margin-bottom: 50px;
+}
+
+.currency {
+  font-weight: bold;
+}
+
+.small-12 {
+  border: solid;
+  border-radius: 15px;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  background-color: #90BEDE;
+}
+
+.large-3 {
+  border: solid;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-right: 25px;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  background-color: #90BEDE;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: solid;
+  padding: 20px;
+  background-color: #68EDC6;
+}
+
+p {
+  font-size: 24px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-left: 405px;
+  margin-right: 300px;
+  width: 300px;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +55,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #DFFDFF;
 }
 
 code {
